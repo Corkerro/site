@@ -35,3 +35,7 @@ body{
     text-decoration: underline #ffffff;
     border-radius: 25px;
 }
+
+.main{
+    font-family: 'Libre Baskerville', serif;
+}
