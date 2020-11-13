@@ -1,0 +1,42 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+body{
+    font-family: 'Stalinist One', cursive;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.hInner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__text{
+    font-size: 256px;
+    text-transform: uppercase;
+}
+
+.hHerf{
+    color: blue;
+    text-decoration: none;
+    transition: .3s linear;
+    padding: 0 5px;
+}
+
+.hHerf:hover{
+    color: #ffffff;
+    background-color: #000000;
+    text-decoration: underline #ffffff;
+    border-radius: 25px;
+}
+
+.main{
+    margin-top: 60px;
+    font-family: 'Libre Baskerville', serif;
+}
